@@ -37,8 +37,8 @@ The dashboard allows users to explore news by keyword, sentiment, and time trend
    - Predict mood of your own text using SVM
 
 ## Project Highlights
-# - Handles large datasets efficiently with pandas and TF-IDF vectorization
-# - Combines NLP preprocessing, sentiment scoring, and predictive modeling
-# - Fully interactive dashboard suitable for exploratory analysis and presentation
+ - Handles large datasets efficiently with pandas and TF-IDF vectorization
+ - Combines NLP preprocessing, sentiment scoring, and predictive modeling
+ - Fully interactive dashboard suitable for exploratory analysis and presentation
 
 
