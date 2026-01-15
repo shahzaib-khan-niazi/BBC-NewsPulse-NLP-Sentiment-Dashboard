@@ -3,7 +3,7 @@
 ## Overview
 This project is an interactive Python and Streamlit dashboard that analyzes BBC news articles.
 It performs sentiment analysis, visualizes word frequency and trends, and uses an SVM model to predict the mood of news articles.
-The dashboard allows users to explore news by keyword, sentiment, and time trends, providing insights into the tone and content of news articles.
+The dashboard allows users to explore news by keyword, sentiment, and time trends, providing  insights into the tone and content of news articles.
 
 ## Features
  - Interactive Filtering: Search news by keyword and filter by sentiment (Positive, Neutral, Negative)
